@@ -1,0 +1,5 @@
+C:\Users\Playtime\Documents\FinishedProjects\FirstProject\MathGame.exe
+C:\Users\Playtime\Documents\FinishedProjects\FirstProject\MathGame.dll
+C:\Users\Playtime\Documents\FinishedProjects\FirstProject\MathGame.deps.json
+C:\Users\Playtime\Documents\FinishedProjects\FirstProject\MathGame.runtimeconfig.json
+C:\Users\Playtime\Documents\FinishedProjects\FirstProject\MathGame.pdb

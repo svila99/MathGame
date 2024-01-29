@@ -1,0 +1,14 @@
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\MathGame.exe
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\MathGame.deps.json
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\MathGame.runtimeconfig.json
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\MathGame.dll
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\MathGame.pdb
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.dll
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\refint\MathGame.dll
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.pdb
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Release\net8.0\ref\MathGame.dll

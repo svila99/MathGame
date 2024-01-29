@@ -1,0 +1,5 @@
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\publish\MathGame.exe
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\publish\MathGame.dll
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\publish\MathGame.deps.json
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\publish\MathGame.runtimeconfig.json
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\bin\Release\net8.0\publish\MathGame.pdb
