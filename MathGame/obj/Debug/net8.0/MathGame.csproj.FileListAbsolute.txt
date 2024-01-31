@@ -12,3 +12,4 @@ C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Debug\net8.0\refint\MathGa
 C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
 C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
 C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
+C:\Users\Playtime\RiderProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json

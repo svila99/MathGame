@@ -5,11 +5,11 @@ namespace MathGame;
 internal class Helpers
 {
     internal static List<Game> games = new List<Game>();
-  
 
-    internal static void AddScore(int score, GameType type)
+
+    internal static void AddScore(int score, GameType type, Difficulty difficulty)
     {
-        games.Add(new Game(score, type));
+        games.Add(new Game(score, type, difficulty));
     }
 
     internal static void ViewScores()
@@ -20,7 +20,7 @@ internal class Helpers
         Console.Clear();
         foreach (var game in gamesToPrint)
         {
-            Console.WriteLine($"{DateTime.Now} {game.Type} game: Score({game.Score}/5) ");
+            Console.WriteLine($"{DateTime.Now} {game.Type} game. {game.Difficulty} difficulty. Score({game.Score}/5) ");
         }
 
         Console.WriteLine("---------------------------");
@@ -50,5 +50,21 @@ internal class Helpers
         }
 
         return result;
+    }
+
+    internal static Difficulty GetDifficultyEnum(string difficulty)
+    {
+        switch (difficulty)
+        {
+            case "E":
+                return Difficulty.Easy;
+            case "M":
+                return Difficulty.Medium;
+            case "H":
+                return Difficulty.Hard;
+            default:
+                return Difficulty.Easy;
+        }
+        
     }
 }
