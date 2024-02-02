@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography;
-using MathGame.Models;
+﻿using MathGame.Models;
 
 namespace MathGame;
 
@@ -122,21 +121,21 @@ public class GameEngine
                         break;
                     case "M":
                         firstNumber = random.Next(10, 100);
-                        secondNumber = random.Next(18, 188);
+                        secondNumber = random.Next(10, 50);
                         while (secondNumber > firstNumber)
                         {
                             firstNumber = random.Next(10, 100);
-                            secondNumber = random.Next(18, 188);
+                            secondNumber = random.Next(10, 50);
                         }
                         isValid = true;
                         break;
                     case "H":
                         firstNumber = random.Next(100, 1000);
-                        secondNumber = random.Next(100, 1000);
+                        secondNumber = random.Next(11, 300);
                         while (secondNumber > firstNumber)
                         {
                             firstNumber = random.Next(100, 1000);
-                            secondNumber = random.Next(100, 1000);
+                            secondNumber = random.Next(11, 300);
                         }
                         isValid = true;
                         break;
@@ -297,21 +296,21 @@ public class GameEngine
                         break;
                     case "M":
                         firstNumber = random.Next(10, 101);
-                        secondNumber = random.Next(10, 101);
+                        secondNumber = random.Next(1, 11);
                         while (firstNumber % secondNumber != 0)
                         {
                             firstNumber = random.Next(10, 101);
-                            secondNumber = random.Next(10, 101);
+                            secondNumber = random.Next(10, 11);
                         }
                         isValid = true;
                         break;
                     case "H":
                         firstNumber = random.Next(100, 1001);
-                        secondNumber = random.Next(100, 1001);
+                        secondNumber = random.Next(10, 101);
                         while (firstNumber % secondNumber != 0)
                         {
                             firstNumber = random.Next(100, 1001);
-                            secondNumber = random.Next(100, 1001);
+                            secondNumber = random.Next(10, 101);
                         }
                         isValid = true;
                         break;
